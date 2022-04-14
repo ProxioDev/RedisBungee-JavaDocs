@@ -1,5 +1,4 @@
 ## Select your Javadocs 
 
-## the API
-[Click here](./RedisBungee-API)
+## the API [Click here](./RedisBungee-API)
 
