@@ -1,4 +1,6 @@
 ## Select your Javadocs 
 
-## the API [Click here](./RedisBungee-API)
+## API [Click here](./RedisBungee-API)
+## Bunggecord Events  [Click here](./RedisBungee-BungeeEvents)
+
 
