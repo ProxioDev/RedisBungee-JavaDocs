@@ -1,3 +1,7 @@
+# Java docs:
+
+## API [Click here](./RedisBungee-API)
+## Bungeecord Events  [Click here](./RedisBungee-BungeeEvents)
 
 ## Implementing RedisBungee in your plugin: [![RedisBungee Build](https://github.com/proxiodev/RedisBungee/actions/workflows/maven.yml/badge.svg)](https://github.com/Limework/RedisBungee/actions/workflows/maven.yml) [![](https://jitpack.io/v/limework/redisbungee.svg)](https://jitpack.io/#limework/redisbungee)
 
@@ -38,10 +42,5 @@ then add this in your dependencies
 	</dependency>
 	
 ```
-
-## Java docs:
-
-# API [Click here](./RedisBungee-API)
-# Bungeecord Events  [Click here](./RedisBungee-BungeeEvents)
 
 
