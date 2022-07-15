@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.imaginarycode.minecraft.redisbungee"},{"l":"com.imaginarycode.minecraft.redisbungee.commands"},{"l":"com.imaginarycode.minecraft.redisbungee.events"}];updateSearchResults();
