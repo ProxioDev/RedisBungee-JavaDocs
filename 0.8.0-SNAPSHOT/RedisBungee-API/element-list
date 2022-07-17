@@ -1,5 +1,8 @@
 com.imaginarycode.minecraft.redisbungee
-com.imaginarycode.minecraft.redisbungee.internal
-com.imaginarycode.minecraft.redisbungee.internal.summoners
-com.imaginarycode.minecraft.redisbungee.internal.util
-com.imaginarycode.minecraft.redisbungee.internal.util.uuid
+com.imaginarycode.minecraft.redisbungee.api
+com.imaginarycode.minecraft.redisbungee.api.summoners
+com.imaginarycode.minecraft.redisbungee.api.tasks
+com.imaginarycode.minecraft.redisbungee.api.util
+com.imaginarycode.minecraft.redisbungee.api.util.io
+com.imaginarycode.minecraft.redisbungee.api.util.lua
+com.imaginarycode.minecraft.redisbungee.api.util.uuid
